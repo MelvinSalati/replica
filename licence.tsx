@@ -1,0 +1,5 @@
+new License({
+    licenseKey:"l10d16dd3dd8d47599542a66355649688",
+})
+
+export VITE_REPLICACHE_LICENSE_KEY="l10d16dd3dd8d47599542a66355649688";
